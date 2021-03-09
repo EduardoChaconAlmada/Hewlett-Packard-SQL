@@ -1,6 +1,6 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](week-09-sql_homework_sql.png)
+![week-09-sql_homework_sql.png](week-09-sql_homework_sql.png)
 
 ## Background
 
